@@ -24,7 +24,6 @@
     <body>
 
         <form action= "" method= "post">
-
             <label> Nome e Idade </label>
             <input type = "text" name = "nome" value = "nome">
             <input type = "text" name = "idade" value = "idade"> <br>
@@ -32,7 +31,6 @@
             <input type = "text" name = "moro" value = "local">
             <input type = "text" name = "amigo" value = "amigo"> <br>
             <input type = "submit" value = "enviar">
-
         </form>
 
     </body>
